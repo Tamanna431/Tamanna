@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/2" />
+  <img src="<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/b23cff51-af02-44e4-a34b-ca1e56f72dbb" />
+" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Tamanna Akter</h1>
@@ -12,14 +13,14 @@
 
 - 🎓 CSE Student
 - 💻 Passionate about Web Development
-- 🌱 Currently learning Next.js
+- 🌱 Currently learning MERN stack
 - ⚡ Love building modern websites
 
 ---
 
 ## 🔥 Current Activities
 
-- 🚀 Exploring Next.js
+- 🚀 Exploring node.js,Express.js, MongoDB
 - 🌍 Working on Full Stack Projects
 - 📚 Learning Backend Development
 
