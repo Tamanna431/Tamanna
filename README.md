@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
+<img width="2520" height="690" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/a5ce276a-d543-4167-92e7-c135c65c5dd8" />
 
 ---
 
